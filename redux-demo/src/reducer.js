@@ -3,7 +3,7 @@ import comments from './comments.js';
 import users from './users.js';
 
 const reducer = combineReducers({
-    comments
+    comments,
     users
 });
 
